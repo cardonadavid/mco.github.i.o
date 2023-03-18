@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  td{
+    background-color: #fcf7f7;
+  }
+  
+  th {
+    background-color: #dad3d3;
+    font-weight: bold;
+  }
+ header{
+    background-color: #c3bfbf;
+    justify-content: end;
+ } 
+body{
+    background-image: url(http://imagenes.4ever.eu/data/download/comida-y-bebida/taza-de-cafe,-granos-de-cafe-217756.jpg?no-logo)
+}
+  
